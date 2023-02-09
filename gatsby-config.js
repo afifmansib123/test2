@@ -5,5 +5,7 @@ module.exports = {
   siteMetadata: {
     siteUrl: `https://www.yourdomain.tld`,
   },
+  pathPrefix: '/src/pages',
   plugins: [],
 }
+
